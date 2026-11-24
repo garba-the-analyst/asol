@@ -2,7 +2,7 @@
 
 > Tactical physical security & ordnance custody — air-gapped, local-first armory desk management replacing paper ledgers.
 
-- **Status:** Concept, TRL 1–2. Spec only — no code yet.
+- **Status:** Designed on paper: architecture, data model and interfaces are written. No code yet; the working prototype is next (gated behind the AeroPulse-NG trial report and a resource review).
 - **Source:** Specification Overview PDF, System 1/4 (`CONTEXT_TYPE: SOFTWARE_SPECIFICATION_EXPORT, DOMAIN: AEROSPACE_DEFENSE_TACTICAL_SOFTWARE`).
 - **BOLTE fit:** Goal 1 (indigenous defense & security tech), Goal 7 (built FOR Nigeria — works offline through outages), Goal 3 (idea → prototype pipeline).
 
